@@ -1,0 +1,52 @@
+.sign-body .sign-form-container {
+  display: flex;
+  justify-content: center;
+}
+.sign-body .sign-form-container .sign-form {
+  margin: 50px 0;
+}
+.sign-body .sign-form-container .sign-form .form-icon {
+  width: 70px;
+  height: 70px;
+  background: #139baa;
+  border-radius: 50%;
+  font-size: 30px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sign-body .sign-form-container .sign-form .form-icon .user {
+  color: #fff;
+  font-size: 25px;
+}
+.sign-body .sign-form-container .sign-form h5 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #151a1e;
+  font-weight: 300;
+  font-size: 36px;
+  margin: 36px 0 40px;
+  text-align: center;
+}
+
+.sign-body .sign-form-container .sign-form span,
+.sign-body .sign-form-container .sign-form a,
+.sign-body .sign-form-container .sign-form a:hover {
+  font-size: 15px;
+  color: #151a1e;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.sign-body .sign-form-container .sign-form span {
+  font-weight: 400;
+  display: block;
+  margin-bottom: 25px;
+
+  margin-top: 30px;
+}
+.sign-body .sign-form-container .sign-form a,
+.sign-body .sign-form-container .sign-form a:hover {
+  text-decoration: underline;
+  font-weight: 600;
+}
